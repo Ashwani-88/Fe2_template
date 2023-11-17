@@ -23,6 +23,6 @@ where (a) log value of the H-ionizing photon flux in $\rm cm^{-2} s^{-1}$, <br>
 (c) the value of microturbulence in km/s.  
 
 ## Each template file has two columns<br>
-<b>First column:</b> wavelength in $\AA$ with 2 $\AA$ binning<br>
+<b>First column:</b> wavelength in Angstrom with 2 Angstrom binning<br>
 <b>Second column:</b> line intensity
 
