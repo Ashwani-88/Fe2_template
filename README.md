@@ -16,7 +16,8 @@ They are named as following.<br>
 <img src='folder_syntax.png' alt="directory naming" style="height: 100px; width:150px;"/>
 
 The files within each directory are named as follows: <br>
-<img src='file_name.png' alt="Fe II template naming" style="height: 150px; width:200px;"/> <br>
+<img src='./file_name.png' alt="template naming">
+
 where (a) log value of the H-ionizing photon flux in $\rm cm^{-2} s^{-1}$, <br>
 (b) log value of the Hydrogen gas density in $\rm cm^{-3}$, and <br>
 (c) the value of microturbulence in km/s.  
