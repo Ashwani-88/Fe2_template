@@ -1,7 +1,7 @@
 # Fe II template
 ## New theoretical Fe II template for fitting optical to UV (1000-10000 Angstrom) Quasar spectra
 
-This new Fe II template is developed using the latest Fe II atomic database of Smyth et al. (2019) within the CLOUDY C23.0 photoionization code with the following set of parameters.
+This new Fe II template is developed using the latest Fe II atomic database of [Smyth et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483..654S/abstract) within the CLOUDY C23.0 ([Chatzikos et al. 2023](https://ui.adsabs.harvard.edu/abs/2023RMxAA..59..327C/abstract))photoionization code with the following set of parameters.
 
 ### H-ionizing photons flux: 17 $\leq \log \Phi_{\rm H}\ (\rm cm^{-2} s^{-1}) \leq$ 22, and    
 ### Gas density: 9 $\leq \log n_{\rm H}\  (\rm cm^{-3}) \leq$ 14
