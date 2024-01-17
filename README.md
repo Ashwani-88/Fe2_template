@@ -1,5 +1,5 @@
-# Fe II template
-## New theoretical Fe II template for fitting optical to UV (1000-10000 Angstrom) Quasar spectra
+# New theoretical Fe II template for bright quasars
+## This new theoretical Fe II template can be used for fitting UV to IR (1000-10000 Angstrom) spectra of quasars.
 
 This new Fe II template is developed using the latest Fe II atomic database of [Smyth et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483..654S/abstract/) within the CLOUDY C23.0 ([Chatzikos et al. 2023](https://ui.adsabs.harvard.edu/abs/2023RMxAA..59..327C/abstract/)) photoionization code with the following set of parameters.
 
