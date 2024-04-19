@@ -24,7 +24,7 @@ where (a) log value of the H-ionizing photon flux in $\rm cm^{-2} s^{-1}$,
 
 ## Each template file has two columns    
 <b>First column:</b> wavelength in Angstrom with 2 Angstrom binning    
-<b>Second column:</b> Fe II line intensity
+<b>Second column:</b> Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$)
 
 ## No Fe II emission was obtained for the following set of parameters.     
 
