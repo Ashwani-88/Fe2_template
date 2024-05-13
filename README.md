@@ -11,7 +11,7 @@ This new Fe II template is developed using the latest Fe II atomic database of [
 ### SED shape: standard "agn.sed", a continuum similar to  [Mathews & Ferland (1987)](https://ui.adsabs.harvard.edu/abs/1987ApJ...323..456M/abstract/)
 ### The Fe II template is available for the microturbulence values 0,10, 20, 30, 50 and 100 km/s.
 
-## There are six directories consisting of Fe II templates for these different microturbulence values. 
+## There are two directories; one consists of templates for only total Fe II emission while the other has templates for the outward and inward Fe II emission for different microturbulence values. 
 They are named as follows.   
 <img src='folder_syntax.png' alt="directory naming" style="height: 100px; width:150px;"/>
 
@@ -25,6 +25,12 @@ where (a) log value of the H-ionizing photon flux in $\rm cm^{-2} s^{-1}$,
 ## Each template file has two columns    
 <b>First column:</b> wavelength in Angstrom with 2 Angstrom binning    
 <b>Second column:</b> Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$)
+
+## Templates in {\color {red} Templates_including_outward_Fe2} has four columns.
+<b>First column:</b> wavelength in Angstrom with 1000 logarithmic bins between 1000 and 7000 Angstrom
+<b>Second column:</b> Total Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$)
+<b>Second column:</b> Inward Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$)
+<b>Second column:</b> Outward Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$)
 
 ## No Fe II emission was obtained for the following set of parameters.     
 
@@ -41,4 +47,4 @@ where (a) log value of the H-ionizing photon flux in $\rm cm^{-2} s^{-1}$,
 | 22.00  | 9.50 |
 | 22.00  | 9.75 |
 
-### Note: These set of parameters are for all the turbulence velocities except zero. In case of no turbulence velocity in addition to the upper parameters, Fe II emission was not obtained for $\log \Phi_{\rm H}$= 22 and $\log n_{\rm H}$= 10.
+### Note: These set of parameters are for all the microturbulence velocities except zero. In case of no microturbulence velocity in addition to the upper parameters, Fe II emission was not obtained for $\log \Phi_{\rm H}$= 22 and $\log n_{\rm H}$= 10.
