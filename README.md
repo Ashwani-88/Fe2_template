@@ -26,7 +26,7 @@ where (a) log value of the H-ionizing photon flux in $\rm cm^{-2} s^{-1}$,
 <b>First column:</b> wavelength in Angstrom with 2 Angstrom binning    
 <b>Second column:</b> Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$)
 
-## Templates in {\color {red} Templates_including_outward_Fe2} has four columns.
+## Templates in ``Templates_including_outward_Fe2'' has four columns.
 <b>First column:</b> wavelength in Angstrom with 1000 logarithmic bins between 1000 and 7000 Angstrom
 <b>Second column:</b> Total Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$)
 <b>Second column:</b> Inward Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$)
