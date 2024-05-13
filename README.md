@@ -27,10 +27,10 @@ where (a) log value of the H-ionizing photon flux in $\rm cm^{-2} s^{-1}$,
 <b>Second column:</b> Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$)
 
 ## Templates in ``Templates_including_outward_Fe2'' has four columns.
-<b>First column:</b> wavelength in Angstrom with 1000 logarithmic bins between 1000 and 7000 Angstrom
-<b>Second column:</b> Total Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$) 
-<b>Third column:</b> Inward Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$) 
-<b>Fourth column:</b> Outward Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$) 
+<b>First column:</b> wavelength in Angstrom with 1000 logarithmic bins between 1000 and 7000 Angstrom    
+<b>Second column:</b> Total Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$)      
+<b>Third column:</b> Inward Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$)       
+<b>Fourth column:</b> Outward Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$)       
 
 ## No Fe II emission was obtained for the following set of parameters.     
 
