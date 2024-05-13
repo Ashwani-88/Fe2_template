@@ -22,7 +22,7 @@ where (a) log value of the H-ionizing photon flux in $\rm cm^{-2} s^{-1}$,
 (b) log value of the Hydrogen gas density in $\rm cm^{-3}$, and     
 (c) the value of microturbulence in km/s.  
 
-## Each template file has two columns    
+## Each template file in ``Templates_including_only_total_Fe2'' has two columns    
 <b>First column:</b> wavelength in Angstrom with 2 Angstrom binning    
 <b>Second column:</b> Fe II line intensity (in erg $\rm cm^{-2} s^{-1}$)
 
