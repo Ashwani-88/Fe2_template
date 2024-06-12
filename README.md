@@ -2,7 +2,7 @@
 ## These new theoretical Fe II templates can be used for fitting UV to NIR (1000-10000 Angstrom) spectra of quasars.
 
 The new Fe II templates are developed using the latest Fe II atomic database of [Smyth et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483..654S/abstract/) within the CLOUDY C23.0 ([Chatzikos et al. 2023](https://ui.adsabs.harvard.edu/abs/2023RMxAA..59..327C/abstract/)) photoionization code with the following set of parameters.
-
+\unicode{x212B}
 ### H-ionizing photons flux: 17 $\leq \log \Phi_{\rm H}\ (\rm cm^{-2} s^{-1}) \leq$ 22, and    
 ### Gas density: 9 $\leq \log n_{\rm H}\  (\rm cm^{-3}) \leq$ 14
 ### Step size: 0.25 on log scale. 
