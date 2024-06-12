@@ -2,7 +2,7 @@
 ## These new theoretical Fe II templates can be used for fitting UV to NIR (1000-10000 Angstrom) spectra of quasars.
 
 The new Fe II templates are developed using the latest Fe II atomic database of [Smyth et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483..654S/abstract/) within the CLOUDY C23.0 ([Chatzikos et al. 2023](https://ui.adsabs.harvard.edu/abs/2023RMxAA..59..327C/abstract/)) photoionization code with the following set of parameters.
-\unicode{x212B}
+
 ### H-ionizing photons flux: 17 $\leq \log \Phi_{\rm H}\ (\rm cm^{-2} s^{-1}) \leq$ 22, and    
 ### Gas density: 9 $\leq \log n_{\rm H}\  (\rm cm^{-3}) \leq$ 14
 ### Step size: 0.25 on log scale. 
@@ -29,13 +29,13 @@ where (a) log value of the H-ionizing photon flux in $\rm cm^{-2} s^{-1}$,
 
 ## Each template file in ``Templates_including_only_total_Fe2'' has two columns    
 <b>First column:</b> wavelength in Angstrom with 2 Angstrom binning    
-<b>Second column:</b> Fe II line intensity (in erg $\rm cm^{-2} s^{-1} \AA^{-1}$)
+<b>Second column:</b> Fe II line intensity (in erg $\rm cm^{-2} s^{-1} A^{-1}$)
 
 ## Templates in ``Templates_including_outward_Fe2'' has four columns.
 <b>First column:</b> wavelength in Angstrom with 1000 logarithmic bins, each ~ 584 km/s wide,  between 1000 and 7000 Angstrom.     
-<b>Second column:</b> Total Fe II line intensity (in erg $\rm cm^{-2} s^{-1} \AA^{-1}$)      
-<b>Third column:</b> Inward Fe II line intensity (in erg $\rm cm^{-2} s^{-1} \AA^{-1}$)       
-<b>Fourth column:</b> Outward Fe II line intensity (in erg $\rm cm^{-2} s^{-1} \AA^{-1}$)       
+<b>Second column:</b> Total Fe II line intensity (in erg $\rm cm^{-2} s^{-1} A^{-1}$)      
+<b>Third column:</b> Inward Fe II line intensity (in erg $\rm cm^{-2} s^{-1} A^{-1}$)       
+<b>Fourth column:</b> Outward Fe II line intensity (in erg $\rm cm^{-2} s^{-1} A^{-1}$)       
 
 ### The Fe II line intensity includes a covering factor of 20 % and are scaled for our test object RM 102. 
 
