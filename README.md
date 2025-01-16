@@ -8,14 +8,16 @@ The new Fe II templates are developed using the latest Fe II atomic database of 
 ### Step size: 0.25 on log scale. 
 ### A fixed Hydrogen column density: 10 $^{24}$ cm $^{-2}$   
 ### Abundance: solar
-### SED shape: standard "agn.sed", a continuum similar to  [Mathews & Ferland (1987)](https://ui.adsabs.harvard.edu/abs/1987ApJ...323..456M/abstract/)
-### The Fe II templates are available for the microturbulence velocities 0, 10, 20, 30, 50 and 100 km/s.
+### SED shapes: (1) standard "agn.sed", a continuum similar to  [Mathews & Ferland (1987)](https://ui.adsabs.harvard.edu/abs/1987ApJ...323..456M/abstract/)
+### (2) Intermediate SED of Jin et al., 2012 (https://ui.adsabs.harvard.edu/abs/2012MNRAS.425..907J/abstract/)
+ 
+### The Fe II templates are available for the microturbulence velocities 0, 20, 50 and 100 km/s.
 
 ## The new Fe II templates are available in the directory "Templates_including_only_total_Fe2". 
 
 ## Additionally, we provide templates for the outward and inward Fe II emissions in the directory "Templates_including_outward_Fe2". 
 
-Within each directory there are six subdirectories for each microturbulence velocity. 
+Within each directory there are four subdirectories for each microturbulence velocity. 
 
 They are named as follows.  
 <img src='folder_syntax.png' alt="directory naming" style="height: 100px; width:150px;"/>
