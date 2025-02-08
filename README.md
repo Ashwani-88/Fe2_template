@@ -39,7 +39,7 @@ where (a) log value of the H-ionizing photon flux in $\rm cm^{-2} s^{-1}$,
 <b>Third column:</b> Inward Fe II line intensity (in erg $\rm cm^{-2} s^{-1} A^{-1}$)       
 <b>Fourth column:</b> Outward Fe II line intensity (in erg $\rm cm^{-2} s^{-1} A^{-1}$)       
 
-### The Fe II line intensity includes a covering factor of 20 % and are scaled for our test object RM 102. 
+### The Fe II line intensity includes a covering factor of 30 % and are scaled for our test object RM 102. 
 
 ## No Fe II emission was obtained for the following set of parameters (see paper for more details).     
 
